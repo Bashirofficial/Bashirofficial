@@ -33,6 +33,8 @@
 ### Cloud
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="Google Cloud" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloud Flare" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### DevOps & Tools
